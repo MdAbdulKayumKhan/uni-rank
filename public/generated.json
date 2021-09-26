@@ -6,7 +6,7 @@
     "founded": 1995,
     "studentEnrollment": 2999,
     "type": "private",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/aust.jpg"
   },
   {
     "id": 2,
@@ -15,52 +15,7 @@
     "founded": 1962,
     "studentEnrollment": 5999,
     "type": "public",
-    "url": ""
-  },
-  {
-    "id": 3,
-    "name": "City University",
-    "countryRank": 73,
-    "founded": 2002,
-    "studentEnrollment": 2999,
-    "type": "private",
-    "url": ""
-  },
-  {
-    "id": 4,
-    "name": "Daffodil International University",
-    "countryRank": 16,
-    "founded": 2002,
-    "studentEnrollment": 14999,
-    "type": "private",
-    "url": ""
-  },
-  {
-    "id": 5,
-    "name": "East West University",
-    "countryRank": 20,
-    "founded": 1996,
-    "studentEnrollment": 9999,
-    "type": "private",
-    "url": ""
-  },
-  {
-    "id": 6,
-    "name": "Fareast International University",
-    "countryRank": 103,
-    "founded": 2014,
-    "studentEnrollment": 2000,
-    "type": "private",
-    "url": ""
-  },
-  {
-    "id": 7,
-    "name": "Green University of Bangladesh",
-    "countryRank": 29,
-    "founded": 2003,
-    "studentEnrollment": 5000,
-    "type": "private",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/buet.jpg"
   },
   {
     "id": 8,
@@ -69,8 +24,54 @@
     "founded": 1993,
     "studentEnrollment": 7000,
     "type": "private",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/iu.jpg"
   },
+  {
+    "id": 13,
+    "name": "Sher-e-Bangla Agricultural University",
+    "countryRank": 62,
+    "founded": 2001,
+    "studentEnrollment": 3000,
+    "type": "public",
+    "img": "https://zen-shockley-9cc647.netlify.app/srb.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Daffodil International University",
+    "countryRank": 16,
+    "founded": 2002,
+    "studentEnrollment": 14999,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/dif.jpg"
+  },
+  {
+    "id": 5,
+    "name": "East West University",
+    "countryRank": 20,
+    "founded": 1996,
+    "studentEnrollment": 9999,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/ewu.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fareast International University",
+    "countryRank": 103,
+    "founded": 2014,
+    "studentEnrollment": 2000,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/fy.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Green University of Bangladesh",
+    "countryRank": 29,
+    "founded": 2003,
+    "studentEnrollment": 5000,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/green.jpg"
+  },
+  
   {
     "id": 9,
     "name": "Jagannath University",
@@ -78,7 +79,7 @@
     "founded": 2005,
     "studentEnrollment": 20000,
     "type": "public",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/ju.jpg"
   },
   {
     "id": 10,
@@ -87,7 +88,7 @@
     "founded": 2001,
     "studentEnrollment": 3000,
     "type": "public",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/mana.jpg"
   },
   {
     "id": 11,
@@ -96,7 +97,7 @@
     "founded": 1992,
     "studentEnrollment": 45000,
     "type": "public",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/nu.jpg"
   },
   {
     "id": 12,
@@ -105,16 +106,18 @@
     "founded": 2002,
     "studentEnrollment": 4000,
     "type": "private",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/prime.jpg"
   },
   {
-    "id": 13,
-    "name": "Sher-e-Bangla Agricultural University",
-    "countryRank": 62,
-    "founded": 2001,
-    "studentEnrollment": 3000,
-    "type": "public"
+    "id": 3,
+    "name": "City University",
+    "countryRank": 73,
+    "founded": 2002,
+    "studentEnrollment": 2999,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/city.png"
   },
+  
   {
     "id": 14,
     "name": "University of Dhaka",
@@ -122,7 +125,7 @@
     "founded": 1921,
     "studentEnrollment": 34999,
     "type": "public",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/du.jpg"
   },
   {
     "id": 15,
@@ -131,6 +134,6 @@
     "founded": 1992,
     "studentEnrollment": 13000,
     "type": "private",
-    "url": ""
+    "img": "https://zen-shockley-9cc647.netlify.app/nsu.jpg"
   }
 ]

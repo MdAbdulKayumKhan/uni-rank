@@ -2,10 +2,20 @@
     background-color: white;
     padding: 30px;
     text-align: center;
-    box-shadow: 3px 3px whitesmoke, -1em 0 .1em lightcyan;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.062), -1em 0 .1em rgba(245, 245, 245, 0.658);
+}
+.card img{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
 }
 .btn-regular{
-    background-color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.932);
     border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
     margin: 30px;
+    border: 1px solid gray;
+    color: white;
 }

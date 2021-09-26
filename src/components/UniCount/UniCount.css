@@ -1,0 +1,7 @@
+.shumari-card{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.062), -1em 0 .1em rgba(245, 245, 245, 0.658);
+    margin: 20px;
+}

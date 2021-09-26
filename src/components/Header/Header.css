@@ -1,7 +1,6 @@
 .header{
-    background-color: lightcyan;
+    background-color: black;
     padding: 20px;
-    margin: 0 auto;
-    border-radius: 10px;
-
+    color: white;
+    line-height: 1.6px;
 }

@@ -2,17 +2,20 @@ import React from 'react';
 import './University.css';
 
 const University = (props) => {
-    console.log(props.university)
-    const {countryRank, founded, name, studentEnrollment, type, url} = props.university;
+    // console.log(props)
+    const {countryRank, founded, name, studentEnrollment, type, img} = props.university;
+    console.log(img)
     return (
         <div className="card">
-            <img src={url} alt="" />
+            <img src={img} alt="" />
             <h4>{name}</h4>
-            <p>Country Rank: {countryRank}</p>
-            <p><small>Founded: {founded}</small></p>
-            <p>Student Enrollment: {studentEnrollment}</p>
+            <p><b>Country Rank: {countryRank}</b></p>
+            <p><strong>Founded: {founded}</strong></p>
+            <p><strong>Student Enrollment: {studentEnrollment}</strong></p>
             <p><strong>Type: {type}</strong></p>
-            <button className="btn-regular">Add</button>
+            <button 
+            onClick={() => props.handleAddUniCount(props.university)}
+            className="btn-regular">Add</button>
         </div>
     );
 };
