@@ -18,6 +18,7 @@ const Universities = () => {
         setUniCount(newUniCount);
     }
     return (
+        // here is the parent 'uni-container' component of two childs one is card-container and other is count-container
         <div className="uni-container">
             <div className="card-container">
                {

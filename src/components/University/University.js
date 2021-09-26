@@ -11,11 +11,11 @@ const University = (props) => {
     return (
         <div className="card">
             <img src={img} alt="" />
-            <h4>{name}</h4>
+            <h6>{name}</h6>
             <p><b>Country Rank: {countryRank}</b></p>
-            <p><strong>Founded: {founded}</strong></p>
-            <p><strong>Student Enrollment: {studentEnrollment}</strong></p>
-            <p><strong>Type: {type}</strong></p>
+            <p>Founded: {founded}</p>
+            <p>Student Enrollment: {studentEnrollment}</p>
+            <p>Type: {type}</p>
             <button 
             onClick={() => props.handleAddUniCount(props.university)}
             className="btn-regular">{element} Add</button>

@@ -2,6 +2,9 @@ import React from 'react';
 import AddedUniversity from '../AddedUniversity/AddedUniversity';
 import './UniCount.css';
 
+// this is used for counting the number of universities which were added by clicking add button
+// and also counting the total number of students of added universities 
+
 const UniCount = (props) => {
     // console.log(props.universityCount)
     const { universityCount } = props;
@@ -18,6 +21,7 @@ const UniCount = (props) => {
             <h5>University Added: {universityCount.length}</h5>
             <h6>Total Student: {totalStudent}</h6>
             </div>
+            {/* here is a loop thorugh to show the added university name on shumari section */}
             {
                 universityCount.map(universityName => <AddedUniversity 
                     key={universityName.id}
