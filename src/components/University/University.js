@@ -1,10 +1,13 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {faCalculator } from '@fortawesome/free-solid-svg-icons';
 import './University.css';
 
 const University = (props) => {
     // console.log(props)
     const {countryRank, founded, name, studentEnrollment, type, img} = props.university;
-    console.log(img)
+    // console.log(img)
+    const element = <FontAwesomeIcon icon={faCalculator} />
     return (
         <div className="card">
             <img src={img} alt="" />
@@ -15,7 +18,7 @@ const University = (props) => {
             <p><strong>Type: {type}</strong></p>
             <button 
             onClick={() => props.handleAddUniCount(props.university)}
-            className="btn-regular">Add</button>
+            className="btn-regular">{element} Add</button>
         </div>
     );
 };

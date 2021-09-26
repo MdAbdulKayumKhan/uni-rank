@@ -18,7 +18,7 @@
     "img": "https://zen-shockley-9cc647.netlify.app/buet.jpg"
   },
   {
-    "id": 8,
+    "id": 3,
     "name": "Independent University, Bangladesh",
     "countryRank": 13,
     "founded": 1993,
@@ -27,7 +27,7 @@
     "img": "https://zen-shockley-9cc647.netlify.app/iu.jpg"
   },
   {
-    "id": 13,
+    "id": 4,
     "name": "Sher-e-Bangla Agricultural University",
     "countryRank": 62,
     "founded": 2001,
@@ -36,7 +36,7 @@
     "img": "https://zen-shockley-9cc647.netlify.app/srb.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Daffodil International University",
     "countryRank": 16,
     "founded": 2002,
@@ -44,15 +44,7 @@
     "type": "private",
     "img": "https://zen-shockley-9cc647.netlify.app/dif.jpg"
   },
-  {
-    "id": 5,
-    "name": "East West University",
-    "countryRank": 20,
-    "founded": 1996,
-    "studentEnrollment": 9999,
-    "type": "private",
-    "img": "https://zen-shockley-9cc647.netlify.app/ewu.jpg"
-  },
+  
   {
     "id": 6,
     "name": "Fareast International University",
@@ -73,16 +65,7 @@
   },
   
   {
-    "id": 9,
-    "name": "Jagannath University",
-    "countryRank": 35,
-    "founded": 2005,
-    "studentEnrollment": 20000,
-    "type": "public",
-    "img": "https://zen-shockley-9cc647.netlify.app/ju.jpg"
-  },
-  {
-    "id": 10,
+    "id": 8,
     "name": "Manarat International University",
     "countryRank": 69,
     "founded": 2001,
@@ -91,13 +74,31 @@
     "img": "https://zen-shockley-9cc647.netlify.app/mana.jpg"
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "National University, Bangladesh",
     "countryRank": 5,
     "founded": 1992,
     "studentEnrollment": 45000,
     "type": "public",
     "img": "https://zen-shockley-9cc647.netlify.app/nu.jpg"
+  },
+  {
+    "id": 10,
+    "name": "East West University",
+    "countryRank": 20,
+    "founded": 1996,
+    "studentEnrollment": 9999,
+    "type": "private",
+    "img": "https://zen-shockley-9cc647.netlify.app/ewu.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jagannath University",
+    "countryRank": 35,
+    "founded": 2005,
+    "studentEnrollment": 20000,
+    "type": "public",
+    "img": "https://zen-shockley-9cc647.netlify.app/ju.jpg"
   },
   {
     "id": 12,
@@ -109,7 +110,7 @@
     "img": "https://zen-shockley-9cc647.netlify.app/prime.jpg"
   },
   {
-    "id": 3,
+    "id": 13,
     "name": "City University",
     "countryRank": 73,
     "founded": 2002,
@@ -129,7 +130,7 @@
   },
   {
     "id": 15,
-    "name": "North South University",
+    "name": "NSU",
     "countryRank": 4,
     "founded": 1992,
     "studentEnrollment": 13000,
