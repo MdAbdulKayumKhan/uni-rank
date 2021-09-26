@@ -1,0 +1,11 @@
+.card{
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 3px 3px whitesmoke, -1em 0 .1em lightcyan;
+}
+.btn-regular{
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin: 30px;
+}

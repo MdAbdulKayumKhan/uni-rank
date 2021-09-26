@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Ahsanullah University of Science and Technology",
+    "countryRank": 8,
+    "founded": 1995,
+    "studentEnrollment": 2999,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 2,
+    "name": "Bangladesh University of Engineering and Technology",
+    "countryRank": 3,
+    "founded": 1962,
+    "studentEnrollment": 5999,
+    "type": "public",
+    "url": ""
+  },
+  {
+    "id": 3,
+    "name": "City University",
+    "countryRank": 73,
+    "founded": 2002,
+    "studentEnrollment": 2999,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 4,
+    "name": "Daffodil International University",
+    "countryRank": 16,
+    "founded": 2002,
+    "studentEnrollment": 14999,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 5,
+    "name": "East West University",
+    "countryRank": 20,
+    "founded": 1996,
+    "studentEnrollment": 9999,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 6,
+    "name": "Fareast International University",
+    "countryRank": 103,
+    "founded": 2014,
+    "studentEnrollment": 2000,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 7,
+    "name": "Green University of Bangladesh",
+    "countryRank": 29,
+    "founded": 2003,
+    "studentEnrollment": 5000,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 8,
+    "name": "Independent University, Bangladesh",
+    "countryRank": 13,
+    "founded": 1993,
+    "studentEnrollment": 7000,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 9,
+    "name": "Jagannath University",
+    "countryRank": 35,
+    "founded": 2005,
+    "studentEnrollment": 20000,
+    "type": "public",
+    "url": ""
+  },
+  {
+    "id": 10,
+    "name": "Manarat International University",
+    "countryRank": 69,
+    "founded": 2001,
+    "studentEnrollment": 3000,
+    "type": "public",
+    "url": ""
+  },
+  {
+    "id": 11,
+    "name": "National University, Bangladesh",
+    "countryRank": 5,
+    "founded": 1992,
+    "studentEnrollment": 45000,
+    "type": "public",
+    "url": ""
+  },
+  {
+    "id": 12,
+    "name": "Prime University",
+    "countryRank": 68,
+    "founded": 2002,
+    "studentEnrollment": 4000,
+    "type": "private",
+    "url": ""
+  },
+  {
+    "id": 13,
+    "name": "Sher-e-Bangla Agricultural University",
+    "countryRank": 62,
+    "founded": 2001,
+    "studentEnrollment": 3000,
+    "type": "public"
+  },
+  {
+    "id": 14,
+    "name": "University of Dhaka",
+    "countryRank": 1,
+    "founded": 1921,
+    "studentEnrollment": 34999,
+    "type": "public",
+    "url": ""
+  },
+  {
+    "id": 15,
+    "name": "North South University",
+    "countryRank": 4,
+    "founded": 1992,
+    "studentEnrollment": 13000,
+    "type": "private",
+    "url": ""
+  }
+]
